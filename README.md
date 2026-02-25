@@ -1,7 +1,6 @@
 # Aditya Gaurav
 
 AI & Data Science Student  
-Focused on Machine Learning, Systems, and Problem Solving  
 
 ---
 
@@ -21,15 +20,3 @@ Focused on Machine Learning, Systems, and Problem Solving
 
 ---
 
-## 🚀 Current Focus
-
-- Data Structures & Algorithms  
-- Open Source Contributions  
-- Machine Learning (NLP & Computer Vision)  
-- Backend & Systems Development  
-
----
-
-## 📫 Connect
-
-GitHub: https://github.com/lil-aditya
