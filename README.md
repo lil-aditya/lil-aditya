@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya
 
-<!--
-**lil-aditya/lil-aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💻 Interested in NLP, Computer Vision & Systems  
+🚀 Focused on DSA, Open Source & ML & development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=cpp,python,git,linux)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lil-aditya&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-aditya&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lil-aditya)
+
+---
+
+## 🚀 Current Focus
+
+- Data Structures & Algorithms  
+- Open Source Contributions  
+- Machine Learning (NLP + CV)
+
+---
