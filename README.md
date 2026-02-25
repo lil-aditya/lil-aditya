@@ -1,18 +1,17 @@
-# Hi 👋 I'm Aditya
+# Aditya Gaurav
 
-🎓 AI & Data Science Student  
-💻 Interested in NLP, Computer Vision & Systems  
-🚀 Focused on DSA, Open Source & ML & development
+AI & Data Science Student  
+Focused on Machine Learning, Systems, and Problem Solving  
 
 ---
 
 ## 🛠 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=cpp,python,git,linux)
+![Skills](https://skillicons.dev/icons?i=cpp,python,javascript,nodejs,express,mongodb,git,linux,pytorch)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lil-aditya&show_icons=true)
 
@@ -26,6 +25,11 @@
 
 - Data Structures & Algorithms  
 - Open Source Contributions  
-- Machine Learning (NLP + CV)
+- Machine Learning (NLP & Computer Vision)  
+- Backend & Systems Development  
 
 ---
+
+## 📫 Connect
+
+GitHub: https://github.com/lil-aditya
