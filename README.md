@@ -6,7 +6,7 @@ AI & Data Science Student
 
 ## 🛠 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=cpp,python,javascript,nodejs,express,mongodb,git,linux,pytorch)
+![Skills](https://skillicons.dev/icons?i=cpp,python,javascript,nodejs,express,mongodb,git,linux,pytorch,fastapi,flask,django,redis,docker,PostgreSQL)
 
 ---
 
