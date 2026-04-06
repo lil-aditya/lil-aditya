@@ -1,19 +1,3 @@
-<div align="center">
-
-<!-- Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Aditya%20Gaurav&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20IIT%20Jodhpur&descAlignY=52&descSize=18&descColor=8b949e" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Full-Stack+Developer+%7C+ML+Engineer+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=lil-aditya&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)
-
-</div>
-
----
 
 ## 🎓 About Me
 
