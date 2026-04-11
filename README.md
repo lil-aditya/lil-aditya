@@ -6,6 +6,7 @@ Name: Aditya Gaurav
 Institution: Indian Institute of Technology, Jodhpur
 Program: B.Tech. in Artificial Intelligence & Data Science
 Year: 2024 – Present
+Gitlab: https://gitlab.com/lil-aditya
 ```
 
 ---
